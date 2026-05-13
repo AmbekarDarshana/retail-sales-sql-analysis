@@ -35,3 +35,12 @@ Aggregate Functions (SUM, AVG, MIN, MAX)
 CASE statements
 Subqueries
 NULL handling
+
+Key Insights:
+
+Mumbai generated the highest revenue among all cities.
+A small number of customers contributed significantly to overall revenue.
+Identified customers with no transactions, highlighting potential engagement gaps.
+High-value customers (spending ≥ 800) contributed a major portion of total revenue.
+Revenue distribution analysis helped categorize customers into High, Medium, and Low value segments.
+
