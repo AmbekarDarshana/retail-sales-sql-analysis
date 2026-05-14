@@ -1,5 +1,8 @@
 Retail Sales & Customer Revenue Analysis
 
+## Dashboard Preview
+![Dashboard Preview](dashboard_screenshot.png)
+
 Overview:
 This project focuses on analyzing customer purchase behavior and revenue trends using SQL. The goal was to practice JOIN operations, aggregations, grouping, and conditional logic while solving business-oriented data questions.
 
